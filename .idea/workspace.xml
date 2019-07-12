@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30eae101-1406-4091-a352-a016e92e7716" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/Handlers/ImageUploadHandler.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/uploads/images/avatars/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/cc3115fd-dbcc-4842-9735-ee55a575eaaa.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" afterPath="$PROJECT_DIR$/app/Models/User.php" />
-      <change beforePath="$PROJECT_DIR$/resources/views/users/edit.blade.php" afterPath="$PROJECT_DIR$/resources/views/users/edit.blade.php" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" />
+      <change beforePath="$PROJECT_DIR$/resources/views/users/show.blade.php" afterPath="$PROJECT_DIR$/resources/views/users/show.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,26 +57,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="show.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/users/show.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="6" column="62" lean-forward="false" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
               <folding>
-                <marker date="1562838878987" expanded="true" signature="9:22" ph="..." />
-                <marker date="1562838878987" expanded="true" signature="33:61" ph="..." />
-                <marker date="1562838878987" expanded="true" signature="72:81" ph="..." />
-                <marker date="1562838878987" expanded="true" signature="373:386" ph="..." />
-                <marker date="1562838878987" expanded="true" signature="507:527" ph="..." />
-                <marker date="1562838878987" expanded="true" signature="635:669" ph="..." />
-                <marker date="1562838878987" expanded="true" signature="928:941" ph="..." />
-                <marker date="1562838878987" expanded="true" signature="953:967" ph="..." />
+                <marker date="1562914749565" expanded="true" signature="9:22" ph="..." />
+                <marker date="1562914749565" expanded="true" signature="33:61" ph="..." />
+                <marker date="1562914749565" expanded="true" signature="72:81" ph="..." />
+                <marker date="1562914749565" expanded="true" signature="255:268" ph="..." />
+                <marker date="1562914749565" expanded="true" signature="300:313" ph="..." />
+                <marker date="1562914749565" expanded="true" signature="434:454" ph="..." />
+                <marker date="1562914749565" expanded="true" signature="562:596" ph="..." />
+                <marker date="1562914749565" expanded="true" signature="855:868" ph="..." />
+                <marker date="1562914749565" expanded="true" signature="880:894" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_header.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/_header.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="25" column="60" lean-forward="false" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+              <folding>
+                <marker date="1562914794949" expanded="true" signature="179:189" ph="..." />
+                <marker date="1562914794949" expanded="true" signature="912:926" ph="..." />
+                <marker date="1562914794949" expanded="true" signature="1007:1024" ph="..." />
+                <marker date="1562914794949" expanded="true" signature="1323:1343" ph="..." />
+                <marker date="1562914794949" expanded="true" signature="1439:1459" ph="..." />
+                <marker date="1562914794949" expanded="true" signature="1637:1668" ph="..." />
+                <marker date="1562914794949" expanded="true" signature="1742:1773" ph="..." />
+                <marker date="1562914794949" expanded="true" signature="1974:1991" ph="..." />
+                <marker date="1562914794949" expanded="true" signature="2048:2062" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/uploads/images/avatars/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -202,16 +218,16 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_07_11_165903_add_avatar_and_introduction_to_users_table.php" />
-        <option value="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/shared/_error.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Requests/UserRequest.php" />
         <option value="$PROJECT_DIR$/storage/logs/laravel-2019-07-11.log" />
-        <option value="$PROJECT_DIR$/resources/views/users/show.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/users/edit.blade.php" />
         <option value="$PROJECT_DIR$/app/Handlers/ImageUploadHandler.php" />
         <option value="$PROJECT_DIR$/app/Models/User.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" />
         <option value="$PROJECT_DIR$/public/uploads/images/avatars/.gitignore" />
+        <option value="$PROJECT_DIR$/resources/views/users/show.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" />
       </list>
     </option>
   </component>
@@ -354,56 +370,6 @@
             <path>
               <item name="larabbs" type="b2602c69:ProjectViewProjectNode" />
               <item name="larabbs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="avatars" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="avatars" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="201907" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="uploads" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="avatars" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="201907" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="12" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="larabbs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="larabbs" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -417,7 +383,7 @@
               <item name="larabbs" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="users" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -488,12 +454,12 @@
       <workItem from="1562745952303" duration="7565000" />
       <workItem from="1562807428412" duration="16285000" />
       <workItem from="1562895263879" duration="6758000" />
-      <workItem from="1562912940517" duration="1721000" />
+      <workItem from="1562912940517" duration="1933000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40014000" />
+    <option name="totallyTimeSpent" value="40226000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -741,13 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/_header.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Requests/UserRequest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -925,28 +884,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/users/show.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <marker date="1562838878987" expanded="true" signature="9:22" ph="..." />
-            <marker date="1562838878987" expanded="true" signature="33:61" ph="..." />
-            <marker date="1562838878987" expanded="true" signature="72:81" ph="..." />
-            <marker date="1562838878987" expanded="true" signature="373:386" ph="..." />
-            <marker date="1562838878987" expanded="true" signature="507:527" ph="..." />
-            <marker date="1562838878987" expanded="true" signature="635:669" ph="..." />
-            <marker date="1562838878987" expanded="true" signature="928:941" ph="..." />
-            <marker date="1562838878987" expanded="true" signature="953:967" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/uploads/images/avatars/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/_header.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="25" column="60" lean-forward="false" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+          <folding>
+            <marker date="1562914794949" expanded="true" signature="179:189" ph="..." />
+            <marker date="1562914794949" expanded="true" signature="912:926" ph="..." />
+            <marker date="1562914794949" expanded="true" signature="1007:1024" ph="..." />
+            <marker date="1562914794949" expanded="true" signature="1323:1343" ph="..." />
+            <marker date="1562914794949" expanded="true" signature="1439:1459" ph="..." />
+            <marker date="1562914794949" expanded="true" signature="1637:1668" ph="..." />
+            <marker date="1562914794949" expanded="true" signature="1742:1773" ph="..." />
+            <marker date="1562914794949" expanded="true" signature="1974:1991" ph="..." />
+            <marker date="1562914794949" expanded="true" signature="2048:2062" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/users/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="62" lean-forward="false" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+          <folding>
+            <marker date="1562914749565" expanded="true" signature="9:22" ph="..." />
+            <marker date="1562914749565" expanded="true" signature="33:61" ph="..." />
+            <marker date="1562914749565" expanded="true" signature="72:81" ph="..." />
+            <marker date="1562914749565" expanded="true" signature="255:268" ph="..." />
+            <marker date="1562914749565" expanded="true" signature="300:313" ph="..." />
+            <marker date="1562914749565" expanded="true" signature="434:454" ph="..." />
+            <marker date="1562914749565" expanded="true" signature="562:596" ph="..." />
+            <marker date="1562914749565" expanded="true" signature="855:868" ph="..." />
+            <marker date="1562914749565" expanded="true" signature="880:894" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
